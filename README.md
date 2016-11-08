@@ -1,5 +1,5 @@
 # javascript-interview-questions-i-ask
-JavaScript Fundamentals questions I ask during an interview.
+JavaScript Fundamental questions I ask during an interview.
 
 ## Fundamental JavaScript Exercise
 
