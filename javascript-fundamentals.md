@@ -83,6 +83,9 @@ JavaScript Fundamental questions I ask during an interview.
     console.log('I am self invoking')
   })()
   ```
+  
+1. Implement the following method `add(num1)(num2)`? For example: `add(1)(1)` = 2
+
 1. What is the most specific and direct way to select the button given the DOM structure below? (You may utilize jQuery)
 
   ```html
